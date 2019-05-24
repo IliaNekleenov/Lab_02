@@ -1,8 +1,8 @@
+//Comment1
 #include <iostream>
 #include <string>
-using namespace std;
 int main(){
-string name;
-cin>>name;
-cout<<"Hello World from "<<name;
+std::string name;
+std::cin>>name;//Comment2
+std::cout<<"Hello World from "<<name;
 }
