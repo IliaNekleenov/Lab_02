@@ -5,7 +5,5 @@
 int
 main()
 {
-  std::string name;
-  std::cin >> name; // Comment2
-  std::cout << "Hello World from " << name;
+  std::cout << "Ilya is cock";
 }
